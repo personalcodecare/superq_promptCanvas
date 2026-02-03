@@ -5,7 +5,7 @@ generation. It uses keyword-driven logic to render a dynamic interface inspired
 by the Google Disco / GenTabs concept.
 
 ## Live Demo
-- https://superqtest.vercel.app
+- https://superq-prompt-canvas.vercel.app
 
 ## Screenshots
 ![Prompt Canvas preview](docs/screenshots/UI-preview.jpg)
